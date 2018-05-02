@@ -1,4 +1,4 @@
-#By Shining (Ning.Shi) ns2945@columbia.edu Version 20170213.1
+#By Shining 20170213.1
 # Import 
 import sys
 import time
